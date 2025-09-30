@@ -38,4 +38,4 @@ Bu analiz, FİBERNET A.Ş.'nin müşteri kaybını önlemek için veri odaklı k
 
 ## Lisans
 
-**MIT Lisansı**yle paylaşılmıştır.  
+Bu proje **MIT** lisanslıdır.
