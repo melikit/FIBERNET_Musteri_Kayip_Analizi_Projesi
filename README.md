@@ -1,41 +1,32 @@
-# FİBERNET A.Ş. Müşteri Kayıp Analizi
-
-Bu proje, FİBERNET A.Ş. müşterilerinin kayıp oranlarını analiz etmek ve kayıpları azaltmaya yönelik stratejik öneriler geliştirmek amacıyla hazırlanmıştır.
-
+#FIBERNET Inc. Customer Churn Analysis
+This project was prepared to analyze FIBERNET Inc.’s customer churn rates and develop strategic recommendations to reduce churn.
 ---
-
-# Veri Seti
-
-Kaynak:https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
-
+#Dataset
+Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ---
+#Analysis Stages
 
-## Analiz Aşamaları
-1. **Kayıp Segmentlerinin Belirlenmesi**  
-   Müşteri sözleşme türü, hizmet kullanımı ve demografik özellikler bazında hangi segmentlerin daha yüksek kayıp oranına sahip olduğu belirlenmiştir.
+Identification of Churn Segments
+Segments with higher churn rates were identified based on customer contract type, service usage, and demographic characteristics.
 
-2. **Temel Nedenlerin Belirlenmesi**  
-   Kayıpların en önemli nedenleri tespit edilmiştir. Öne çıkan faktörler: teknik destek eksikliği, kağıtsız fatura kullanımı, fiber internet hizmeti kullanımı ve aylık sözleşme tercihleri.
+Determination of Root Causes
+The main reasons for churn were identified. The prominent factors include lack of technical support, use of paperless billing, use of fiber internet service, and preference for monthly contracts.
 
-3. **Stratejik Öneriler**  
-   Analiz sonuçlarına dayanarak müşterilerin kaybını azaltmak için öneriler geliştirilmiştir. Bunlar arasında teknik destek hizmetlerinin güçlendirilmesi, sözleşme seçeneklerinin gözden geçirilmesi ve müşteri güvenini artırıcı uygulamalar yer almaktadır.
-
+Strategic Recommendations
+Based on the analysis results, recommendations were developed to reduce customer churn. These include strengthening technical support services, reviewing contract options, and implementing practices that enhance customer trust.
 ---
-
-## Kullanılan Teknoloji
-- Python
-
+#Technology Used
+Python
 ---
+#Conclusion
 
-## Sonuç
-- Teknik destek alamayan müşteriler kaybın en büyük nedeni olarak öne çıkıyor.  
-- Kağıtsız fatura kullanan müşteriler ve fiber internet kullanıcıları yüksek riskli gruplar.  
-- Aylık sözleşme tercih eden müşterilerde kayıp oranı diğerlerine göre daha yüksek.  
+Customers who do not receive technical support are the main source of churn.
 
-Bu analiz, FİBERNET A.Ş.'nin müşteri kaybını önlemek için veri odaklı kararlar almasına yardımcı olacak temel bulguları sunmaktadır.
+Customers using paperless billing and fiber internet are high-risk groups.
 
+Customers who prefer monthly contracts have higher churn rates compared to others.
+
+This analysis provides key insights to help FIBERNET Inc. make data-driven decisions to prevent customer churn.
 ---
-
-## Lisans
-
-Bu proje **MIT** lisanslıdır.
+##License
+This project is licensed under the MIT License.
