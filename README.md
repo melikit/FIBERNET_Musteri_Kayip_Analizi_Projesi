@@ -8,32 +8,13 @@ Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 # Analysis Stages
 _Identification of Churn Segments_
-
 Segments with higher churn rates were identified based on customer contract type, service usage, and demographic characteristics.
 
 _Determination of Root Causes_
-
-The main reasons for churn were identified.
-The prominent factors include:
-
-Lack of technical support
-
-Use of paperless billing
-
-Use of fiber internet service
-
-Preference for monthly contracts
+The main reasons for churn were identified. The prominent factors include lack of technical support, use of paperless billing, use of fiber internet service, and preference for monthly contracts.
 
 _Strategic Recommendations_
-
-Based on the analysis results, recommendations were developed to reduce customer churn.
-These include:
-
-Strengthening technical support services
-
-Reviewing contract options
-
-Implementing practices that enhance customer trust
+Based on the analysis results, recommendations were developed to reduce customer churn. These include strengthening technical support services, reviewing contract options, and implementing practices that enhance customer trust.
 
 # Technology Used
 
